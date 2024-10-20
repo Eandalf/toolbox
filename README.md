@@ -11,3 +11,5 @@ Tools for testing http-related stuff.
 ## Script
 
 Some scripts to run.
+
+- [Start CRA on Windows](./react/start-cra-win.ps1) To set command level envs with the start command in CRA.

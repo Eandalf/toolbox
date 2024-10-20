@@ -13,7 +13,7 @@
  * @param {string} method 
  * @param {string} path 
  * @param {Object} payload 
- * @returns Promise<Object>
+ * @returns respond parsed into JSON
  */
 async function testApi(method, path, payload) {
   const API_URL = "http://localhost:3000";
